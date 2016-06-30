@@ -1,2 +1,4 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Inserir o caminho do arquivo para teste nas variaves main e no arquivo de teste.
+
+Os testes foram feitos usando JUnit 4.
+
